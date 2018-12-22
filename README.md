@@ -4,9 +4,10 @@ A repository with which to practice using git.
 
 ### What is your name?
 
-> Answer goes here
+> Van Tha Bik Lian
 
 
 ### What is your favorite color?
 
-> Answer goes here
+> Blue with a question mark [?]
+
